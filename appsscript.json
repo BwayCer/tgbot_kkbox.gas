@@ -1,0 +1,15 @@
+{
+  "timeZone": "Asia/Taipei",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "assistant",
+      "libraryId": "15pHyoZZssxS9H7Itu1uJOOLU32o1z-edEmyQF26fkpyKiOcQOq-IQwtn",
+      "version": "2"
+    }]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
